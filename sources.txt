@@ -1,0 +1,4 @@
+eez_lsib_polygon.gpkg
+https://data.geodata.state.gov/LSIB.gpkg
+https://www.marineregions.org/downloads.php
+(World EEZ v12 (2023-10-25, 122 MB) - downloads: 98590)
